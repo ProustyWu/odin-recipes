@@ -1,0 +1,28 @@
+* {
+    background-color: darkseagreen;
+}
+
+/*
+ul, ol {
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+}
+*/
+
+
+h1 {
+    color: red;
+}
+
+
+p{
+    color:deeppink;
+    font-style: italic;
+}
+
+div,
+a {
+    color: blue;
+    font-style: normal;
+}
